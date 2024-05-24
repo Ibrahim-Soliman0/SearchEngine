@@ -1,0 +1,3 @@
+C:/Users/ibrah/CLionProjects/IR-Final-Project/cmake-build-debug/CMakeFiles/IR_Final_Project.dir
+C:/Users/ibrah/CLionProjects/IR-Final-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ibrah/CLionProjects/IR-Final-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
